@@ -53,10 +53,6 @@ function App() {
   return (
     <div className="App">
       <p>o meu numero é {palpite}</p>
-      <p>
-        {" "}
-        MIN: {min} // MAX : {max}{" "}
-      </p>
       <button onClick={menor}>menor</button>
       <button onClick={acertou}>acertou</button>
       <button onClick={maior}>maior</button>
