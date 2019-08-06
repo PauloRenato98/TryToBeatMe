@@ -1,2 +1,0 @@
-# TryToBeatMe
-Created with CodeSandbox
