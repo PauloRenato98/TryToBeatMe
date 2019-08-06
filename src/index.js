@@ -52,7 +52,8 @@ function App() {
 
   return (
     <div className="App">
-      <p>o meu numero é {palpite}</p>
+      <p>Pense em um número menor que 300</p>
+      <p> o número que voce pensou é maior ou menor que {palpite}</p>
       <button onClick={menor}>menor</button>
       <button onClick={acertou}>acertou</button>
       <button onClick={maior}>maior</button>
