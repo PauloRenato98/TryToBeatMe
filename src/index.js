@@ -45,7 +45,7 @@ function App() {
   if (estado === "FIM") {
     return (
       <p>
-        acertei o numero {palpite} com {numpalpites} chute
+        Acertei o numero {palpite} com {numpalpites} chutes
       </p>
     );
   }
